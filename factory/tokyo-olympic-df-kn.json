@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-kn",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79109ab0-e8ea-4846-9f87-752ee356e563",
+		"tenantId": "3bfa0eeb-c222-4e4a-a263-9ccc955df4b3"
+	}
+}
