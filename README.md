@@ -1,11 +1,10 @@
 # azureprojects
+#**Tokyo Olympic 2020 Project**
+![2020_Summer_Olympics_logo_new svg](https://github.com/karthigainathan/azureprojects/assets/43938345/b2ad591a-4f34-4c6a-b3e5-6ef604ad0807)
 
 
-
-![image](https://github.com/karthigainathan/azureprojects/assets/43938345/555e00ec-a546-4cb0-9392-d2dec8229dd6)
-
-
-
+#**Azure Data Pipeline Architecture**
+![image](https://github.com/karthigainathan/azureprojects/assets/43938345/910fd3b8-5519-4816-83c1-0ada36b8a38b)
 
 #**Azure Data Pipeline (Azure Data Factory)**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/ab570b46-876e-4c13-8daf-d30a079cca3a)
@@ -13,10 +12,8 @@
 #**Azure Synapse Analytics (Transformed Data)**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/c10be897-ac26-4009-9166-063289ca56e9)
 
-
 #**counting no. of players by country**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/d51b50eb-ffc2-4776-a4d4-8ac9270912a7)
-
 
 #**counting no. of players by games**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/42da2221-10a6-4550-bb6a-1b87dae9b4c8)
