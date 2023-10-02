@@ -5,7 +5,8 @@
 
 
 #**Azure Data Pipeline Architecture**
-![image](https://github.com/karthigainathan/azureprojects/assets/43938345/910fd3b8-5519-4816-83c1-0ada36b8a38b)
+![image](https://github.com/karthigainathan/azureprojects/assets/43938345/f64f85d3-1923-4c30-95ab-fa61ec71f343)
+
 
 #**Azure Data Pipeline (Azure Data Factory)**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/ab570b46-876e-4c13-8daf-d30a079cca3a)
