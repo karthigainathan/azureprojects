@@ -3,6 +3,7 @@
 #**Tokyo Olympic 2020 Project**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/f4c2f2a5-8da6-4f29-b6e0-6e4664c9a329)
 
+
 #**Azure Data Pipeline Architecture**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/910fd3b8-5519-4816-83c1-0ada36b8a38b)
 
@@ -23,9 +24,6 @@
 
 #**counting no. of coaches by games**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/a715c930-59dc-4825-8466-eb3703b508f6)
-
-#**Total Number of Females and Males**
-
 
 #**Total Number of Females and Males by Games**
 ![image](https://github.com/karthigainathan/azureprojects/assets/43938345/1a01b958-007a-41ff-91df-0a8124cb1559)
