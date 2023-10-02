@@ -1,7 +1,8 @@
 # azureprojects
 
 #**Tokyo Olympic 2020 Project**
-![image](https://github.com/karthigainathan/azureprojects/assets/43938345/f4c2f2a5-8da6-4f29-b6e0-6e4664c9a329)
+![58595cba4f6ae202fedf284a](https://github.com/karthigainathan/azureprojects/assets/43938345/e86a9585-7601-4306-a6cf-1d9e42ad6586)
+
 
 
 #**Azure Data Pipeline Architecture**
